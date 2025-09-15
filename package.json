@@ -2,7 +2,7 @@
   "name": "Chain-Digital",
   "version": "1.0.0",
   "description": "Vercel Function for shop status.",
-  "main": "api/shopstatus.js",
+  "main": "api/shop-status.js",
   "scripts": {
     "start": "vercel dev"
   },
