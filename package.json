@@ -1,8 +1,8 @@
 {
   "name": "Chain-Digital",
   "version": "1.0.0",
-  "description": "Vercel Function for ski finder.",
-  "main": "api/skis.js",
+  "description": "Vercel Function for shop status.",
+  "main": "api/shopstatus.js",
   "scripts": {
     "start": "vercel dev"
   },
