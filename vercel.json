@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/shopstatus",
-      "destination": "/api/shopstatus"
+      "source": "/api/shop-status",
+      "destination": "/api/shop-status"
     }
   ],
   "headers": [
