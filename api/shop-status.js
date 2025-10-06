@@ -11,7 +11,7 @@ export default async function (req, res) {
   }
 
   const airtableApiKey = process.env.AIRTABLE_API_KEY;
-  const baseId = 'appB9GQhuY38AW2uT';
+  const baseId = 'appzOtnrRAtoWvbGf';
   const tables = ["Openingstijden", "Sluitingsperiodes", "Specifieke Sluitingsdata"];
 
   try {
